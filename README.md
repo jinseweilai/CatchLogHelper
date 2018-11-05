@@ -24,3 +24,6 @@
 - V1.0.1.4_20180503
 - V1.0.1.5_20180503
 - V1.0.1.6_20181101(The current)
+### To inform:
+- If the reference this content, please indicate the source!
+- The exchange of learning only, do not used for commercial purposes!
